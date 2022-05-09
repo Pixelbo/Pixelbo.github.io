@@ -1,0 +1,47 @@
+@import "./font.css";
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+  font-family:"marianneregular";
+  background-color: #500303;
+  width: 100%;
+  height: 100%; 
+
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+h1 {
+    font-family: "mariannebold";
+}
+
+.background {
+  position: fixed;
+
+  background-image: url(../img/minitel.png);
+  background-repeat: no-repeat;
+  background-size: 87%;
+
+
+  animation: intro 2s; /* Animation */
+  animation-timing-function: ease-in-out;
+  animation-fill-mode: forwards;
+
+  width: 100vh;
+  height: 100vh; 
+  
+  left: calc(50% - 355px);
+}
+
+
+@keyframes intro {
+  to {
+    -ms-transform: scale(1.7) translateY(20%); /* IE 9 */
+    -webkit-transform: scale(1.7) translateY(20%); /* Safari 3-8 */
+    transform: scale(1.7) translateY(20%);
+  }
+}
