@@ -1,13 +1,19 @@
-<span id="a">code@nerve</span>:<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
-<span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+<span id="a">boris@BorisLenovo</span>:<span id="b">~</span><span id="c">$</span> cd information/<!-- kjsdfhkjdhsfkjdshfkj -->boris
+<span id="a">boris@BorisLenovo</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->about_me.txt<br/>
 
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+Bonjour! Hello there!, 
+Mon nom est <span id="k">Boris Hilkens</span> est je suis actuellement étudiant au Lycée la NAT à Voiron. <!-- sjkfhskjf -->
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
+Voici mon portfolio avec un look de minitel, un de mes projets.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
-<p>Cheers!</p>
+<br>Pour l'instant ce site ne me sert qu'à recenser mes projets qui sont les suivants: <br><br>
+<a href="https://github.com/Pixelbo/Minitel-raspi"> La rennaissance d'un minitel! </a>.</p><!-- hsdgfhjfkdjdhkfjhdskjfhksdjhfkdsj -->
+<a href="https://github.com/Pixelbo/Pelco_And_Arduino"> Contrôler un camera avec un arduino</a>.</p><!-- hsdgfhjfkdjdhkfjhdskjfhksdjhfkdsj -->
+<a href="https://ferdinand-buisson.ent.auvergnerhonealpes.fr/vie-pedagogique/travaux-des-eleves/halloween-a-la-nat--8755.htm?URL_BLOG_FILTRE=%231482"> Hallowenn à la NAT (première place)</a>.</p><!-- hsdgfhjfkdjdhkfjhdskjfhksdjhfkdsj -->
+<br>
+<a href="https://github.com/Pixelbo"> Mon Github</a>.</p><!-- hsdgfhjfkdjdhkfjhdskjfhksdjhfkdsj --> 
+<a href="https://hackaday.io/projects/hacker/546405"> Mes projets sur Hackaday.io</a>.</p><!-- hsdgfhjfkdjdhkfjhdskjfhksdjhfkdsj -->
+
+Pour me contacter via <!-- slightdelayhere--> email: <!-- longlonglongcomment --><a href="mailto:pixelbo21@gmail.com">ma messagerie électronique</a>.
+
+<p>Passez une bonne journée/soirée!</p>

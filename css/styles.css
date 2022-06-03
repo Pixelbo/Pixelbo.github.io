@@ -35,6 +35,7 @@ h1 {
   height: 100vh; 
   
   left: calc(50% - 355px);
+  z-index: 0;
 }
 
 
